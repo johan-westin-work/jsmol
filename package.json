@@ -4,5 +4,9 @@
   "description": "Javascript molecular visualization library",
   "author": "Someone",
   "license": "BSD-3-Clause",
-  "main": "release/JSmol.full.nojq.js"
+  "main": "release/JSmol.full.nojq.js",
+  "files": [
+    "release/idioma/**/*",
+    "release/j2s/**/*"
+  ]
 }
