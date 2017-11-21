@@ -1,0 +1,8 @@
+{
+  "name": "jsmol",
+  "version": "14.25.2",
+  "description": "Javascript molecular visualization library",
+  "author": "Someone",
+  "license": "BSD-3-Clause",
+  "main": "release/JSmol.full.nojq.js"
+}

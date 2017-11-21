@@ -1,0 +1,2 @@
+2016-08-24: This JMol is downloaded via http://wiki.jmol.org/index.php/Main_Page
+            https://sourceforge.net/projects/jmol/files/Jmol/Version%2014.6/Version%2014.6.1/Jmol-14.6.1_2016.08.11-binary.zip
