@@ -5,8 +5,8 @@
   "author": "Someone",
   "license": "BSD-3-Clause",
   "main": "release/JSmol.full.nojq.js",
-  "files": [
-    "release/idioma/**/*",
-    "release/j2s/**/*"
+  "directories": [
+    "release/idioma",
+    "release/j2s"
   ]
 }
